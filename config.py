@@ -1,1 +1,1 @@
-crash = 'postgresql+psycopg2://saba:saba123@http://127.0.0.1:49758/browser//crash'
+postgres_key = 'postgresql//saba:saba123@http://127.0.0.1:49758/browser//crash'
