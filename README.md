@@ -32,6 +32,24 @@ https://docs.google.com/presentation/d/1QRg5ISgfh2NgMJMsnZKULpoYUhYPFshqf6CRLt4U
 ![Wake County Map ](/Images/Screenshot.png) 
 
 
+### Data Sources
+
+NHTSA Crash Site:
+
+https://crashviewer.nhtsa.dot.gov/CrashAPI
+
+
+API link by year and state:
+
+https://crashviewer.nhtsa.dot.gov/CrashAPI/crashes/GetCaseList?states=1,51&fromYear=2014&toYear=2015&minNumOfVehicles=1&maxNumOfVehicles=6&format=json
+
+
+API link by year and state and county:
+
+https://crashviewer.nhtsa.dot.gov/CrashAPI/crashes/GetCrashesByLocation?fromCaseYear=2014&toCaseYear=2015&state=1&county=1&format=json
+
+
+
 ### Webpage
 
 > This is the view of our homepage that was created
