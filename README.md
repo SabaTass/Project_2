@@ -29,8 +29,7 @@ https://docs.google.com/presentation/d/1QRg5ISgfh2NgMJMsnZKULpoYUhYPFshqf6CRLt4U
 
 > The dots over the map will show you the crashes and fatalities reported
 
-![Central NC Map ] (/Images/Screenshot.png)
-
+![Wake County Map ](/Images/Screenshot.png) 
 
 
 ---
