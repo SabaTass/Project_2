@@ -48,7 +48,7 @@ https://docs.google.com/presentation/d/1QRg5ISgfh2NgMJMsnZKULpoYUhYPFshqf6CRLt4U
 
 | <a href="https://github.com/SabaTass" target="_blank">**Saba Khan**</a> | <a href="https://github.com/Kenneth-Edwards" target="_blank">**Kenneth Edwards**</a> | <a href="https://github.com/CassPMyers" target="_blank">**Cassy Myers**</a> |
 | :---: |:---:| :---:|
-| [!(https://avatars0.githubusercontent.com/u/9957601?s=200)]   | [!(https://avatars2.githubusercontent.com/u/51466879?s=200)] | [!(https://avatars1.githubusercontent.com/u/53923863?s=200)]  |
+| [![](https://avatars0.githubusercontent.com/u/9957601?s=200)]   | [![](https://avatars2.githubusercontent.com/u/51466879?s=200)] | [![FVCproductions](https://avatars1.githubusercontent.com/u/53923863?s=200)]  |
 | <a href="https://github.com/SabaTass" target="_blank">`https://github.com/SabaTass`</a> | <a href="https://github.com/Kenneth-Edwards" target="_blank">`https://github.com/Kenneth-Edwards`</a> | <a href="https://github.com/CassPMyers" target="_blank">`https://github.com/CassPMyers`</a> |
 ---
 
