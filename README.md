@@ -3,10 +3,6 @@
 > Our project focuses on North Carolina crash and fatality data.  We created a webpage that includes a homepage and links to a map, visualization, and table displaying data pertaining to the numbers of crashes with fatalities within NC.
 
 
-## Presentation:
-https://docs.google.com/presentation/d/1QRg5ISgfh2NgMJMsnZKULpoYUhYPFshqf6CRLt4U0i0/edit?usp=sharing
-
-
 ## Data
 > This graph shows the trend for data of the average crashes per month
 
@@ -58,6 +54,9 @@ https://crashviewer.nhtsa.dot.gov/CrashAPI/crashes/GetCrashesByLocation?fromCase
 
 
 
+
+## Presentation:
+https://docs.google.com/presentation/d/1QRg5ISgfh2NgMJMsnZKULpoYUhYPFshqf6CRLt4U0i0/edit?usp=sharing
 
 
 ---
