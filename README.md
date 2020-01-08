@@ -32,9 +32,19 @@ https://docs.google.com/presentation/d/1QRg5ISgfh2NgMJMsnZKULpoYUhYPFshqf6CRLt4U
 ![Wake County Map ](/Images/Screenshot.png) 
 
 
+### Webpage
+
+> This is the view of our homepage that was created
+
+![Webpage Homepage ](/Images/Homepage.png) 
+
+
+
+
+
 ---
 
-## Team
+## Our Team
 
 | <a href="https://github.com/SabaTass" target="_blank">**Saba Khan**</a> | <a href="https://github.com/Kenneth-Edwards" target="_blank">**Kenneth Edwards**</a> | <a href="https://github.com/CassPMyers" target="_blank">**Cassy Myers**</a> |
 | :---: |:---:| :---:|
