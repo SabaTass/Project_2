@@ -19,8 +19,9 @@ var getData = $.get('/API/NC_Fatal_byMonth');
        
         var options = {
           width : 1000,
-          height : 600,
-        //   fullWidth: true
+          height : 300,
+          
+        // fullWidth: true
         }
       // Create a new line chart object where as first parameter we pass in a selector
       // that is resolving to our chart container element. The Second parameter
@@ -42,7 +43,8 @@ var getData = $.get('/API/NC_Fatal_byMonth');
            
             var options = {
               width : 1000,
-              height : 600,
+              height : 300,
+              
             //   fullWidth: true
             }
         // ################################################################
@@ -71,7 +73,7 @@ var getData3 = $.get('/API/NC_Fatal_byHour');
         
             var options = {
             width : 1000,
-            height : 600,
+            height : 300,
             //   fullWidth: true
             }
         // Create a new line chart object where as first parameter we pass in a selector
