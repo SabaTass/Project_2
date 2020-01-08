@@ -13,17 +13,25 @@ https://docs.google.com/presentation/d/1QRg5ISgfh2NgMJMsnZKULpoYUhYPFshqf6CRLt4U
 ![Crashes per Month](/Images/image(1).png)
 
 
+
+
 > This is a searchable table where you can look up specific criteria county, fatalities, pedestrians, persons involved, and total vehicles
 
 ![County Data Table](/Images/image(2).png) 
+
+
 
 > The dots shows throughout Wake County, NC will show data for the number of crashes and fatalities
 
 ![Wake County Map ](/Images/image.png)
 
+
+
 > The dots over the map will show you the crashes and fatalities reported
 
 ![Central NC Map] (/Images/screenshot.png)
+
+
 ---
 
 ## Team
