@@ -22,13 +22,11 @@ function renderTable() {
 
 renderTable();
 
-var myData = ("/API/NC_Fatal_byCounty")
-new d3plus.Pie()
-  .config({
-    data: myData,
-    groupBy: "County",
-    value: function(d) {
-      return "Peds";
-    }
-  })
-  .render();
+// var myData = ("/API/NC_Fatal_byCounty")
+// d3plus.Pie()
+//   .container("#Pie")
+//   .data(myData)
+//   .type("pie")
+//   .id("County")
+//   .size("Peds")
+//   .draw()

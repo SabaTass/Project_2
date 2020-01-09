@@ -21,7 +21,7 @@ app = Flask(__name__, static_url_path="/static")
 # app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 # crash_db = 'postgresql:saba123@localhost:5432/crash'
 # engine = create_engine(f'postgresql://{crash_db}')
-engine = create_engine('postgresql://postgres:saba123@127.0.0.1:5432/crash_db')
+engine = create_engine('postgresql://postgres:MyPostSql2day@127.0.0.1:5432/crash_db')
 connection = engine.connect()
 ################################################
 Base = automap_base()

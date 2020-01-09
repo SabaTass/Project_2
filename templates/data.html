@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <title>Changing Nature of Work in the USA</title>
+    <title>Vehicle Crash Data by NC County</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -17,8 +17,9 @@
     <script src="https://cdn.datatables.net/1.10.16/js/dataTables.bootstrap.min.js"></script>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 <!-- D3Plus for map -->
-<script type="text/javascript" src="http://d3js.org/d3.v3.min.js"></script>
-  <!--css style-->
+<script src="//d3plus.org/js/d3.js"></script>
+<script src="//d3plus.org/js/d3plus.js"></script>
+<!--css style-->
   <link rel="stylesheet" href="../static/css/style.css">
   </head>
 <body>
@@ -47,22 +48,22 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <h2>Vehcile Crash NC</h2>
+                    <h2>Vehicle Crash Data by NC County</h2>
                     <h4>Data Table</h4>
                     <hr>
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-8">
+                <div class="col-md-9">
                   <table class="table table-striped">
                     <thead>
                       <tr>
                         
-                        <th>County_name</th>
-                        <th>Fatals</th>
-                        <th>Peds</th>
-                        <th>Persons</th>
-                        <th>Total Vehciles</th>
+                        <th>County</th>
+                        <th>Fatalities</th>
+                        <th>Pedestrians</th>
+                        <th>Persons Involved</th>
+                        <th>Total Vehicles</th>
                         
                       </tr>
 
@@ -72,11 +73,11 @@
                   </table>
                 </div>
             </div>
-                <div class="row">
-                  <div class="col-md-8">
+                <!-- <div class="row">
+                  <div class="col-md-6">
                     <div id="Pie"></div>
                   </div>
-                </div>
+                </div> -->
             <!-- End Container -->
         <footer class="footer">
             <div class="container">
